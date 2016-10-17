@@ -1,0 +1,7 @@
+target/
+project/target
+*~
+/.idea/
+metastore_db/
+*.log
+.ipynb_checkpoints/
